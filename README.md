@@ -1,4 +1,6 @@
-# Hackintosh on [HP G6 800 Mini](https://support.hp.com/document/c06707841) via [OpenCore][https://github.com/acidanthera/OpenCorePkg]
+# Hackintosh on [HP G6 800 Mini](https://support.hp.com/document/c06707841) via [OpenCore](https://github.com/acidanthera/OpenCorePkg)
+
+![About this mac](https://github.com/korzhyk/OpenCore-HP-EliteDesk-800-G6-Mini/assets/1100134/9c0fb81f-02d0-41c6-9a9b-796abf0aadc2)
 
 _macOS Supported:_ **13+**
 
@@ -34,4 +36,16 @@ This is light configuration to run macOS smoothly. With Chime sound at boot. �
 - _Advanced_ → System Options → HP Application Driver [**unCheck**]
 - _Advanced_ → Built-in Device Options → Wake on WLAN [**Check**] (no sure if this will work)
 - _Advanced_ → Remote Management Options → Intel Active Management Technology (AMT) [**unCheck**]
+</details>
+
+<details>
+<summary>🕸️
+
+## USB ports map
+
+</summary>
+
+![usb-port-map](https://github.com/korzhyk/OpenCore-HP-EliteDesk-800-G6-Mini/assets/1100134/5d0d8f79-c258-473f-a6dc-05a3d9a524b3)
+![hackintool-usb](https://github.com/korzhyk/OpenCore-HP-EliteDesk-800-G6-Mini/assets/1100134/847fdbfa-ff26-40a3-a83e-d948fa6bed27)
+
 </details>
