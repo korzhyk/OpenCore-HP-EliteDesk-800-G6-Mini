@@ -16,7 +16,7 @@ This is light configuration to run macOS smoothly. With Chime sound at boot. �
 | Audio Chipset    | ALC3205-CG                                    |
 | Ethernet         | Intel I219-LM                                 |
 | WiFi & Bluetooth | Intel(R) Wi-Fi 6 AX210 160MHz + Bluetooth 5.0 |
-| OS Disk          | SK hynix PC300 NVME 512GB                     |
+| SSD              | SK hynix PC300 NVME 512GB                     |
 
 ## ⚙️ UEFI Settings
 
